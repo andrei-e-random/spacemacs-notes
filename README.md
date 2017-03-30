@@ -1,0 +1,2 @@
+# spacemacs-notes
+Spacemacs
