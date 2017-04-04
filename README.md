@@ -22,3 +22,9 @@ Neotree: https://www.emacswiki.org/emacs/NeoTree
   - ESC. e.g: ESC SPC 1 will change window to 1.
 - How to setup a default window for opening files from neotree?
   - TODO
+- Neotree:
+  - Toggle(File Tree): SPC f t
+  - Just use ? to get commands help
+  - Do NOT use it to open files. Use SPC f F instead
+- Clear highlights (e.g. after search)
+  - (search clear) SPC s c 
